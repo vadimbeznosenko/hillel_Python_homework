@@ -4,4 +4,4 @@ b = int(input("Enter an integer number B: "))
 
 sum = a + b
 
-print(sum)
+print("Sum of numbers is: ", sum)
