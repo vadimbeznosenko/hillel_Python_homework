@@ -1,0 +1,9 @@
+Напишіть програму, котра проситиме користувача ввести два цілих числа і виводитиме їх суму.
+
+
+
+Приклад роботи програми:
+
+Enter an integer number A: 5
+Enter an integer number B: 7
+Sum of numbers is: 12
