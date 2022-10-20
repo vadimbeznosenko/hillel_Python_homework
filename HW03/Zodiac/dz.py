@@ -27,8 +27,7 @@ elif birth_month <= 10 and date_of_birth <= 23 or not birth_month >= 10:
 elif birth_month <= 11 and date_of_birth <= 22 or not birth_month >= 11:
     print("Ваш знак зодіаку: Скорпіон")
 elif birth_month <= 12 and date_of_birth <= 21 or not birth_month >= 12:
-    print("Ваш знак зодіаку: Скорпіон")
-
+    print("Ваш знак зодіаку: Стрілець")
 
 
 
