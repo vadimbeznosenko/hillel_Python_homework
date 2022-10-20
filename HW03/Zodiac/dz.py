@@ -4,7 +4,7 @@ date_of_birth = int(input("Введіть число вашої дати нар�
 
 if birth_month > 12 or date_of_birth > 31 or birth_month <= 0 or date_of_birth <= 0:
     print("Ви ввели некоректну дату! ")
-elif birth_month == 2 and date_of_birth >= 29:
+elif birth_month == 2 and date_of_birth >= 30:
     print("Ви ввели некоректну дату! ")
 elif birth_month <= 2 and date_of_birth <= 20:
     print("Ваш знак зодіаку: Козоріг")
